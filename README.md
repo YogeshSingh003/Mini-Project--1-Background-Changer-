@@ -10,10 +10,10 @@ This is a simple React.js project that demonstrates how to change the background
 
 ## Concept Used
 
-- React Hooks: The project utilizes useState for managing state.
-- Event Handling: Handling user input events to change state and update the UI.
-- CSS for Styling: Basic CSS is used to style the application and make it visually appealing.
-- Component-Based Architecture: The application is divided into reusable components.
+- **React Hooks:** The project utilizes useState for managing state.
+- **Event Handling:** Handling user input events to change state and update the UI.
+- **CSS for Styling:** Basic CSS is used to style the application and make it visually appealing.
+- **Component-Based Architecture:** The application is divided into reusable components.
 
 ## Installation & Usage
 
