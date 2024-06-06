@@ -8,18 +8,30 @@ This is a simple React.js project that demonstrates how to change the background
 - Color Picker: An input field that allows users to pick any color.
 - Real-time Updates: The background color updates immediately as a new color is selected.
 
-## Concept Used
+### Concept Used
 
 - React Hooks: The project utilizes useState for managing state.
 - Event Handling: Handling user input events to change state and update the UI.
 - CSS for Styling: Basic CSS is used to style the application and make it visually appealing.
 - Component-Based Architecture: The application is divided into reusable components.
 
-### Installation
+#### Installation & Usage
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/background-change-mini-project.git
    cd background-change-mini-project
+   ```
+
+2. Install Dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
    ```
