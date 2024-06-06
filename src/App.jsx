@@ -10,19 +10,19 @@ function App() {
         className="h-screen w-full duration-200"
         style={{ backgroundColor: color }}
       >
-        <div className="absolute flex flex-wrap w-full justify-center bottom-10  px-2">
-          <div className="flex justify-center rounded-full bg-white ">
+        <div className="absolute bottom-10 inset-x-0 px-2 flex justify-center">
+          <div className="flex justify-center rounded-full bg-white flex-wrap">
             <Button btnColor="Red" textColor="white" colorSetter={setColor} />
             <Button btnColor="Green" textColor="white" colorSetter={setColor} />
             <Button btnColor="Blue" textColor="white" colorSetter={setColor} />
             <Button
               btnColor="Yellow"
-              textColor="Black"
+              textColor="black"
               colorSetter={setColor}
             />
             <Button
               btnColor="Orange"
-              textColor="White"
+              textColor="white"
               colorSetter={setColor}
             />
             <Button btnColor="Olive" textColor="white" colorSetter={setColor} />
