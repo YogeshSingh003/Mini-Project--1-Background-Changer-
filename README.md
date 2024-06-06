@@ -17,20 +17,20 @@ This is a simple React.js project that demonstrates how to change the background
 
 ## Installation & Usage
 
-1. Clone the repository:
+1. #### Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/background-change-mini-project.git
    cd background-change-mini-project
    ```
 
-2. Install Dependencies:
+2. #### Install Dependencies:
 
    ```bash
    npm install
    ```
 
-3. Start the development server:
+3. #### Start the development server:
 
    ```bash
    npm run dev
